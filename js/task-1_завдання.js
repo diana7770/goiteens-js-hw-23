@@ -1,4 +1,4 @@
-function Account({ login, email }) {
+function Account(login, email) {
   this.login = login;
   this.email = email;
 }
